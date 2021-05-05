@@ -1,4 +1,5 @@
 ### Alice in the Software World 👀
+#### Based in Incheon, Korea. Always open to remote and international team 🌈
 
 <!--
 **1myourman/1myourman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
