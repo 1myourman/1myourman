@@ -10,7 +10,6 @@ Here are some ideas to get you started: -->
 
 📝 I’m currently working on Web Development based on JavaScript<br/>
 😎 I’m currently learning every single context of the world of software<br/>
-🫂 Pronouns: she, they<br/>
 🤖 Fun fact: You can check Linkedin profile page below! It's there!
 
 ### Technology and Skills
