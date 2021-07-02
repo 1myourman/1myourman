@@ -1,5 +1,5 @@
 ### Alice in the Software World 👀
-#### Based in Incheon, Korea. Always open to remote and international team 🌈
+#### Based in Incheon, Korea. <br />Open to both on-site and remote team. Hello, international teams! 🌈
 
 <!--
 **1myourman/1myourman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <https://www.linkedin.com/in/kyeonglinkimalice/> <br/>
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <pickyourownfork@gmail.com>
 
-### Blog (actually Notion records)
+### Blog (Notion records)
 <a href=https://www.notion.so/Alice-Kim-b808813d008b4657b02f52340d49fb55>Alice's Notion</a> 
 has many records of struggling and growing
 
