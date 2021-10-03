@@ -8,17 +8,15 @@ Here are some ideas to get you started: -->
 
 ### Who are you?
 
-📝 I’m currently working on Web Development based on JavaScript<br/>
-😎 I’m currently learning every single context of the world of software<br/>
-🤖 Fun fact: You can check Linkedin profile page below! It's there!
+📝 From Korea, studied in Taiwan, now WFH in Korea<br/>
+😎 Started with front-end part, yet also into serverside and management of database like Python Django and PostgreSQL<br/>
+🤖 Fun fact: Thought I was more close to reader when I was teenager, but now I'm more like speaker. Check more at the Linkedin profile page below! It's there!
 
 ### Technology and Skills
 <ul>
   <li>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&?style=plastic&logo=appveyor=html5&logoColor=white"/> 
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&?style=plastic&logo=appveyor=css3&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=plastic&logo=appveyor=bootstrap&logoColor=white"/>
-<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=plastic&logo=appveyor=SASS&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=?style=plastic&logo=appveyor=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=appveyor=typescript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=plastic&logo=appveyor=react&logoColor=%2361DAFB"/>
@@ -34,6 +32,6 @@ Here are some ideas to get you started: -->
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <pickyourownfork@gmail.com>
 
 ### Blog (Notion records)
-<a href=https://www.notion.so/Alice-Kim-b808813d008b4657b02f52340d49fb55>Alice's Notion</a> 
-has many records of struggling and growing
+<a href="https://www.notion.so/pickyourownfork/Projects-a6e058e1db0b422995a34926a3128072">Alice's Notion</a> 
+has many records of struggling and growing. Do you still remember your first months? 😜
 
