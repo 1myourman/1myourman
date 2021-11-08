@@ -10,7 +10,18 @@ Here are some ideas to get you started: -->
 
 📝 From Korea, studied in Taiwan, now WFH in Korea<br/>
 😎 Started with front-end part, yet also into serverside and management of database like Python Django and PostgreSQL<br/>
-🤖 Fun fact: Thought I was more close to reader when I was teenager, but now I'm more like speaker. Check more at the Linkedin profile page below! It's there!
+🤖 Some fun facts (Hope it will help you to say Hi to me!) :
+<ol>
+<li>
+Available in 3 languages: Korean, English, Chinese (Chinese is somewhere between basic and intermediate, surely able to manage travelling alone level)
+  </li>
+<li>  
+Scanning every corner of all the markets in any district and graphically memorizing it is an old habit. Skimming and observing the infrastructure and the pattern of each town is fun. Where has more variety of options to get a herb, where has the cheapest fruits these days, sort of points.
+  </li>
+  <li>
+Always review or criticize the contents from Youtube, Netflix, cinema, K-pop and etc in my Korean blog as here, Korea, is the society where I reflect the contents. About quality and potential interest or subscribers, considering the practical issues in producing the contents.
+  </li>
+</ol>
 
 ### Technology and Skills
 <ul>
@@ -33,5 +44,5 @@ Here are some ideas to get you started: -->
 
 ### Blog (Notion records)
 <a href="https://www.notion.so/pickyourownfork/Projects-a6e058e1db0b422995a34926a3128072">Alice's Notion</a> 
-has many records of struggling and growing. Do you still remember your first months? 😜
+has many records of struggling and growing. <br /> Do you still remember your first months? 😜
 
