@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 ### Who are you?
 
 📝 From Korea, studied in Taiwan, now WFH in Korea<br/>
-😎 Started with front-end part mainly, studying python and NLP recently tho <br/>
+😎 Started with front-end part mainly, broadening the scope <br/>
 
 ### Technology and Skills
 <ul>
