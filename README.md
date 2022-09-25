@@ -1,5 +1,5 @@
 ### Alice in the Software World 👀
-#### Based in Incheon, Korea. <br />Open to both on-site and remote positions. Hello, international teams! 🌈
+#### Located in Brisbane. <br />Open to both on-site and remote positions. Hello, international teams! 🌈
 
 <!--
 **1myourman/1myourman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 ### Who are you?
 
-📝 From Korea, studied in Taiwan, now WFH in Korea<br/>
+📝 From Korea, studied in Taiwan, now in Brisbane, Australia<br/>
 😎 Started with front-end part mainly, broadening the scope <br/>
 
 ### Technology and Skills
